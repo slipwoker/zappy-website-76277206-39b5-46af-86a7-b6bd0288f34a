@@ -2,13 +2,13 @@
 
 אני רוצה ליצור אתר
 
-Source: https://-76277206.zappy5.app
+Source: https://example.com
 
 ---
 
 ## גלו עולם של אופנה סקסית לזוגות — חם וסקסי
 
-URL: https://-76277206.zappy5.app
+URL: https://example.com
 Description: חנות אופנה סקסית אונליין שמציעה בגדים סקסיים לנשים בישראל וקולקציות נועזות לזוגות. כנסו עכשיו לשדרג את הלוק ולגלות פריטים שיגרמו לכם לבלוט בכל אירוע!
 
 גלו עולם של אופנה סקסית לזוגות — חם וסקסי
@@ -448,7 +448,7 @@ Description: חנות אופנה סקסית אונליין שמציעה בגדי
 
 ## מדיניות פרטיות
 
-URL: https://-76277206.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -704,7 +704,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-76277206.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -969,7 +969,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-76277206.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
